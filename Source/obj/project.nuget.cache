@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kp1C8+eSOalB7VsTlHr91GqtuD+IpXTmdJ7BjgVlbr8oUKzhmAlFU61bg1zzf3O65rSuTg66b3wFkGfydcV54g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\falec\\codenation\\csharp-2\\Source\\Source.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\falec\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\falec\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
